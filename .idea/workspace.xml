@@ -2,36 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a2370df2-d854-42e2-936f-bc830dfc057d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/11.a5d6d143.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/12.b478517d.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/13.493a2875.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/14.7ee12718.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/15.bde9a914.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/16.ea598b2b.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/17.0d2e3e0e.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/20.77c234b2.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/21.517d5875.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/23.b1fdf579.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/26.e6607743.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/27.e7608e68.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/28.cc821d34.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/29.34fe1e13.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/31.681893c9.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/32.d2d331ed.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/33.4142996c.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/34.7356e44c.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/35.42c41224.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/5.ba24a2ef.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/app.b7d662e1.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Languages/Chinese/index.html" afterPath="$PROJECT_DIR$/Languages/Chinese/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Languages/English/index.html" afterPath="$PROJECT_DIR$/Languages/English/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Languages/index.html" afterPath="$PROJECT_DIR$/Languages/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/guide/index.html" afterPath="$PROJECT_DIR$/guide/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/guide/introduct.html" afterPath="$PROJECT_DIR$/guide/introduct.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/guide/using-vue.html" afterPath="$PROJECT_DIR$/guide/using-vue.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.bin/acorn" afterPath="$PROJECT_DIR$/node_modules/.bin/acorn" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.bin/ansi-html" afterPath="$PROJECT_DIR$/node_modules/.bin/ansi-html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.bin/atob" afterPath="$PROJECT_DIR$/node_modules/.bin/atob" />
@@ -112,101 +83,12 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="config.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="config.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/docs/.vuepress/config.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-157">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="244">
+              <caret line="75" column="67" lean-forward="false" selection-start-line="75" selection-start-column="29" selection-end-line="75" selection-end-column="67" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BlockchainBrowser.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/thinkey/BlockchainBrowser.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="90">
-                <caret line="6" column="6" lean-forward="false" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="5" lean-forward="false" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BlockchainBrowser.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/thinkey/BlockchainBrowser.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="IntroductionToDevelopmentDocumentation.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/thinkey/IntroductionToDevelopmentDocumentation.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Thinkey'sTechnicalFeatures.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/thinkey/Thinkey'sTechnicalFeatures.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="WhatIsThinkey.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/thinkey/WhatIsThinkey.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="WhatIsThinkey.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/thinkey/WhatIsThinkey.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="389">
-                <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Thinkey'sTechnicalFeatures.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/thinkey/Thinkey'sTechnicalFeatures.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor />
             </state>
           </provider>
         </entry>
@@ -231,7 +113,6 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/docs/.vuepress/components/layouts.vue" />
-        <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/package-lock.json" />
         <option value="$PROJECT_DIR$/docs/.vuepress/theme/Layout.vue" />
         <option value="$PROJECT_DIR$/docs/langage/chinese/README.md" />
@@ -251,9 +132,10 @@
         <option value="$PROJECT_DIR$/docs/thinkey/BlockchainBrowser.md" />
         <option value="$PROJECT_DIR$/docs/thinkey/IntroductionToDevelopmentDocumentation.md" />
         <option value="$PROJECT_DIR$/docs/thinkey/Thinkey'sTechnicalFeatures.md" />
-        <option value="$PROJECT_DIR$/docs/.vuepress/config.js" />
         <option value="$PROJECT_DIR$/docs/thinkey/WhatIsThinkey.md" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/docs/.vuepress/config.js" />
+        <option value="$PROJECT_DIR$/package.json" />
       </list>
     </option>
   </component>
@@ -264,6 +146,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/docs/.vuepress/dist/node_modules" />
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
@@ -286,21 +169,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope">
-        <subPane subId="Project Files">
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="vuepress">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -325,6 +193,53 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="docs" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="vuepress">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="vuepress">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="docs">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="vuepress">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="docs">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT=".vuepress">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -450,21 +365,21 @@
       <workItem from="1574213321920" duration="241000" />
       <workItem from="1574238104137" duration="1360000" />
       <workItem from="1574242355427" duration="2004000" />
+      <workItem from="1574299221446" duration="1128000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27704000" />
+    <option name="totallyTimeSpent" value="29340000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2546495" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25107297" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32891566" sideWeight="0.5028612" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32891566" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -477,6 +392,7 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32891566" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
@@ -511,21 +427,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/docs/Languages/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/assets/hero.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/docs/.vuepress/theme/components/guide.vue" />
     <entry file="file://$PROJECT_DIR$/docs/.vuepress/theme/components/layout.vue" />
     <entry file="file://$PROJECT_DIR$/docs/.vuepress/theme/index.js" />
@@ -579,13 +480,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="10" lean-forward="false" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/docs/.vuepress/dist/404.html" />
     <entry file="file://$PROJECT_DIR$/docs/.vuepress/dist/thinkey/BlockchainBrowser.html" />
     <entry file="file://$PROJECT_DIR$/docs/.vuepress/dist/thinkey/IntroductionToDevelopmentDocumentation.html" />
@@ -605,7 +499,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="90">
             <caret line="6" column="29" lean-forward="false" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="29" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -656,7 +549,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -707,7 +599,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="8" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -718,7 +609,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="6" lean-forward="false" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -728,7 +618,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -737,7 +626,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="90">
             <caret line="6" column="6" lean-forward="false" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -748,17 +636,8 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/.vuepress/config.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-157">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -767,7 +646,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="389">
             <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -777,7 +655,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="10" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -785,7 +662,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -793,7 +669,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -801,22 +676,45 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/thinkey/WhatIsThinkey.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
-          <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
-          <folding />
+          <caret line="22" column="1" lean-forward="false" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="5" lean-forward="false" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+        <state relative-caret-position="120">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/assets/hero.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/.vuepress/dist/assets/img/hero.d1fed5cb.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/.vuepress/config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="75" column="67" lean-forward="false" selection-start-line="75" selection-start-column="29" selection-end-line="75" selection-end-column="67" />
           <folding />
         </state>
       </provider>
